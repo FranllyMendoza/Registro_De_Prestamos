@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Registro_De_Prestamos.Models;
+using Registro_De_Prestamos.Pages.Registros;
 using System;
 using System.Collections.Generic;
 using System.Linq;
